@@ -19,7 +19,7 @@
 
 
 
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, Call ME LiL.G
 
 Tech Content Creator / Developer / Open Source Enthusiast
 
