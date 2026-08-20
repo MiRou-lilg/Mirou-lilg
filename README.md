@@ -1,5 +1,5 @@
 # MiRou-lilg
-# Welcome to my Profile
+#                                                                               ATLAS GHOST
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" width="100%" alt="Visual Art" />
