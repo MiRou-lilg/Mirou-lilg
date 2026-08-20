@@ -1,11 +1,4 @@
 # MiRou-lilg
-#                                                                     <p align="center">          ATLAS GHOST <br>   </p>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" width="100%" alt="Visual Art" />
-</p>
-
 <div align="center">
   <p>⋆💡⌇📖⌇💡⋆</p>
   <p>٨ﮩ🧠-⚡︎-🫀ﮩ٨</p>
@@ -13,6 +6,14 @@
   <p>الله لا إله إلا هو الحي القيوم</p>
   <p>إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ</p>
 </div>
+#                                                                     <p align="center">          ATLAS GHOST <br>   </p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" width="100%" alt="Visual Art" />
+</p>
+
+
 
 # Hi there 👋, I'm [Your Name]
 
