@@ -55,7 +55,8 @@ Tech Content Creator / Developer / Open Source Enthusiast
 - **Email:** your.email@example.com
 
 
-<img width="1024" height="1024" alt="cd423fd46709e8bcd40155be11d026e0" src="https://github.com/user-attachments/assets/f211eded-1c47-47ea-81c0-92987682e243" />
+<img width="1672" height="941" alt="ChatGPT Image Aug 21, 2026, 12_46_17 AM" src="https://github.com/user-attachments/assets/d123a691-de8d-44fb-96e8-1e8789088910" />
+
 
 <!--
 **MiRou-lilg/Mirou-lilg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
