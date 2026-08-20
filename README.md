@@ -1,5 +1,6 @@
 # MiRou-lilg
-#                                                                               ATLAS GHOST
+#                                                                     <p align="center">          ATLAS GHOST <br>   </p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" width="100%" alt="Visual Art" />
