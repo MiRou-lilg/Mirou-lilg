@@ -7,10 +7,9 @@
   <p>إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ</p>
 </div>
                                 <p>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>   
-                               <p align="center" style="font-size: 48px; font-weight: bold;">
- ಄﹌﹌﹌﹌﹌   ★ ATLAS GHOST ★   ﹌﹌﹌﹌﹌಄
-</p>
-
+                  <h1 align="center">
+  ಄﹌﹌﹌﹌﹌ ★ ATLAS GHOST ★ ﹌﹌﹌﹌﹌಄
+</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" width="100%" alt="Visual Art" />
