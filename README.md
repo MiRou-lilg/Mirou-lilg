@@ -55,7 +55,7 @@ Tech Content Creator / Developer / Open Source Enthusiast
 - **Email:** your.email@example.com
 
 
-
+<img width="1024" height="1024" alt="cd423fd46709e8bcd40155be11d026e0" src="https://github.com/user-attachments/assets/f211eded-1c47-47ea-81c0-92987682e243" />
 
 <!--
 **MiRou-lilg/Mirou-lilg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,7 +64,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...<img width="1024" height="1024" alt="cd423fd46709e8bcd40155be11d026e0" src="https://github.com/user-attachments/assets/190c93b3-6928-4f81-819a-07f72b2d416a" />
+
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
