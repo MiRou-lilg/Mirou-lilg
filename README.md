@@ -11,7 +11,7 @@
 </div>
                                 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>   
                   <h1 align="center">
-  ಄﹌﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌﹌಄
+  ಄﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌಄
 </h1>
 
 
