@@ -1,4 +1,3 @@
-<img width="3840" height="2160" alt="atlas_4x" src="https://github.com/user-attachments/assets/900e8583-0a64-42d3-83ff-36d6aec04d1a" />
 
 <div align="center">
   <p>●</p>
@@ -55,8 +54,8 @@ Tech Content Creator / Developer / Open Source Enthusiast
 - **Twitter / X:** [@yourhandle](https://twitter.com/yourhandle)
 - **Email:** your.email@example.com
 
-<img width="3840" height="2160" alt="atlas_4x" src="https://github.com/user-attachments/assets/6fb900a2-20bc-424d-b523-349116d2ff0e" />
 
+<img width="3840" height="2160" alt="atlas_4x" src="https://github.com/user-attachments/assets/900e8583-0a64-42d3-83ff-36d6aec04d1a" />
 
 
 
