@@ -46,9 +46,9 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ---
 
-### 👷 Check out what I'm currently working on
-- **[wallpaper-main](https://github.com/ATLAS-GHOST/wallpaper-main)** - Personal asset & wallpaper repository
-- **[repo-name](https://github.com/ATLAS-GHOST/repo-name)** - Brief description of project
+### 👷 Check out what I'm currently working on( coming soon inchALLAH)
+- SIGMA PROJECT(.....)
+- ATLAS PROJECT(.....)
 
 ---
 
