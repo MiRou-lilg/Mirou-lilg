@@ -31,8 +31,7 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ### 📬 Socials & Links
 <p>
-  <a href="https://youtube.com/YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://youtube.com/YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a
   <a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
 </p>
 
@@ -67,6 +66,11 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 
 <!--
+
+
+
+
+
 **MiRou-lilg/Mirou-lilg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
