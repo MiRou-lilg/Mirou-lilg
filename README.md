@@ -13,9 +13,12 @@
   ಄﹌﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌﹌಄
 </h1>
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" width="100%" alt="Visual Art" />
+ <img width="3840" height="2160" alt="87-visual-art-(#0075eb,#296ec2)_4x" src="https://github.com/user-attachments/assets/897968e3-9915-4a5f-884c-7d651122eb0f" />
 </p>
+
 
 
 
