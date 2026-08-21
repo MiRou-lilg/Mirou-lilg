@@ -29,13 +29,6 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ---
 
-### 📬 Socials & Links
-<p>
-  <a href="https://youtube.com/YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a
-  <a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
@@ -67,6 +60,14 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 <!--
 
+
+### 📬 Socials & Links
+<p>
+  <a href="https://youtube.com/YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a
+  <a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+</p>
+
+---
 
 
 
