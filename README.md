@@ -56,7 +56,14 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ---
 
+<img width="3840" height="2160" alt="270-visual-art-(#de0dde,#cb1f9f)" src="https://github.com/user-attachments/assets/f9893326-bd43-44a4-8c57-53c59d303502" />
+---
+
 <img width="3840" height="2160" alt="atlas_4x" src="https://github.com/user-attachments/assets/900e8583-0a64-42d3-83ff-36d6aec04d1a" />
+
+
+---
+
 
 
 
