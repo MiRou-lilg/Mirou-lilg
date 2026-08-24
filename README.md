@@ -1,3 +1,5 @@
+<img width="3840" height="2160" alt="58-other-d-(#35e97d,#ddab5f)" src="https://github.com/user-attachments/assets/f416834b-e50d-45ed-8e0e-14404974021c" />
+<img width="3840" height="2160" alt="58-other-d-(#35e97d,#ddab5f)" src="https://github.com/user-attachments/assets/6a9f450d-0601-40d8-8500-20673a4818db" />
 <div align="center">
   <h4>●</h4>
   <h2>♾️</h2>
@@ -78,6 +80,10 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ---
   <h2 align="center">  ⚝﹌﹌ ★-- AI-ATLAS --★ ﹌﹌⚝</h2>
+
+<img width="3840" height="2160" alt="58-other-d-(#35e97d,#ddab5f)" src="https://github.com/user-attachments/assets/a29be611-401f-4a4f-a75b-ba8830c5b332" />
+
+  
 <img width="3840" height="2160" alt="atlas_4x" src="https://github.com/user-attachments/assets/900e8583-0a64-42d3-83ff-36d6aec04d1a" />
 
 
