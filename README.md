@@ -26,7 +26,7 @@
 
 
 # Hi there 👋, Call ME LiL.G
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi there 👋, Call ME LiL.G" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><img width="80%" alt="Hi there 👋, Call ME LiL.G" src="./assets/gh-readme-header.png" /></a></p>
 
 
 Tech Content Creator / Developer / Open Source Enthusiast
