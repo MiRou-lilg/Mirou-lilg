@@ -63,8 +63,7 @@ Tech Content Creator / Developer / Open Source Enthusiast
 <img width="3840" height="2160" alt="270-visual-art-(#de0dde,#cb1f9f)" src="https://github.com/user-attachments/assets/85e58208-a739-4775-9cdb-5c5c9c7db465" />
 
 
-- <img width="685" height="851" alt="image" src="https://github.com/user-attachments/assets/43fddf62-08c5-46ac-aaf6-69df3bd0064f" />
-SIGMA CYBER (THEMED STYLED YOUTUBE):BROWSER EXTENSION
+- 1-SIGMA CYBER (THEMED STYLED YOUTUBE):BROWSER EXTENSION
 - <img width="381" height="81" alt="image" src="https://github.com/user-attachments/assets/87b81a43-14ba-427c-b176-b5bc0fa88f88" />
 
 - <img width="554" height="722" alt="image" src="https://github.com/user-attachments/assets/5ab22256-80d0-4169-98a7-bd840983d4a6" />
