@@ -1,8 +1,3 @@
-🕊️Palästina 𓂆 🇵🇸 
-- FROM THE RIVER TO SEA (A THIEF WILL NEVER BE MADE OWNER IN THE LAW OF GOD )CHOSEN PEPOLE OF GOD ??NAAH : CHOSEN PEPOLE OF THE DEVIL YEA FOLLOWED BY FOOLS 
-
-
-
 <div align="center">
   <h4>●</h4>
   <h2>♾️</h2>
@@ -36,6 +31,8 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ---
 
+- 🕊️Palästina 𓂆 🇵🇸 /FROM THE RIVER TO SEA
+- A THIEF WILL NEVER BE MADE OWNER IN THE LAW OF GOD 
 
 ### 📊 GitHub Stats
 
