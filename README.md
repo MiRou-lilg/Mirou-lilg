@@ -44,8 +44,8 @@ Tech Content Creator / Developer / Open Source Enthusiast
 ---
 
 ### 👷 Check out what I'm currently working on( coming soon inchALLAH)
-- SIGMA PROJECT(.....)
-- ATLAS PROJECT(.....)
+- SIGMA PROJECT(.....)A.K-SIGMA
+- ATLAS PROJECT(.....)AI ATLAS
 
 ---
 
@@ -55,10 +55,11 @@ Tech Content Creator / Developer / Open Source Enthusiast
 - **Email:** your.email@example.com
 
 ---
-
+  <h2 align="center">  ⚝﹌﹌ ★-- A.K-SIGMA --★ ﹌﹌⚝</h2>
 <img width="3840" height="2160" alt="270-visual-art-(#de0dde,#cb1f9f)" src="https://github.com/user-attachments/assets/f9893326-bd43-44a4-8c57-53c59d303502" />
----
 
+---
+  <h2 align="center">  ⚝﹌﹌ ★-- AI-ATLAS --★ ﹌﹌⚝</h2>
 <img width="3840" height="2160" alt="atlas_4x" src="https://github.com/user-attachments/assets/900e8583-0a64-42d3-83ff-36d6aec04d1a" />
 
 
