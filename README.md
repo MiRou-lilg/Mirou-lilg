@@ -11,12 +11,7 @@
                                 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>   
                   <h2 align="center">
   ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝
-
-
-                                 
-
-                    
-</h2>
+/h2>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
