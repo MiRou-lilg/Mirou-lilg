@@ -9,9 +9,9 @@
   <h4>إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ</h4>
 </div>
                                 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>   
-                  <h2 align="center">  ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝ 
-           </h2>                  
-- https://www.youtube.com/watch?v=NdPes_cj0yI       
+                  <h2 align="center">  ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝  </h2>
+             <p align="center">  https://www.youtube.com/watch?v=NdPes_cj0yI    </p>         
+     
                   
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
