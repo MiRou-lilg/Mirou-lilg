@@ -9,7 +9,8 @@
   <h4>إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ</h4>
 </div>
                                 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>   
-                  <h2 align="center">  ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝   </h2>
+                  <h2 align="center">  ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝ 
+                  </h2>
                   
 https://www.youtube.com/watch?v=NdPes_cj0yI
                   
