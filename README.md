@@ -12,7 +12,7 @@
                   <h2 align="center">
   ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝
 
-  https://youtu.be/6nmYlIiN2cU?si=_-A9nxK0S2iFp7Pc
+  https://www.youtube.com/watch?v=hw6fKf9xqB4
                                  
 
                     
