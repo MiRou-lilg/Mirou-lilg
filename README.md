@@ -10,8 +10,7 @@
 </div>
                                 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>   
                   <h2 align="center">  ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝ 
-                  </h2>
-                  
+                  </h2>                  
 https://www.youtube.com/watch?v=NdPes_cj0yI
                   
 <p align="center">
