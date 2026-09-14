@@ -59,7 +59,6 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ### 📫 How to reach me
 - **Website:** [yourdomain.com](https://yourdomain.com)
-- **Twitter / X:** [@yourhandle](https://twitter.com/yourhandle)
 - **Email:** A1LAS-GH0ST@proton.me
 
 
