@@ -7,12 +7,16 @@
   <h3>الله لا إله إلا هو الحي القيوم</h3>
   <p>﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌</p>
   <h4>إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ</h4>
+
+
+
+  
 </div>
                                 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>   
                   <h2 align="center">  ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝  </h2>
              <p align="center">  https://www.youtube.com/watch?v=6nmYlIiN2cU   </p>        
-
-           [![Watch the video](https://img.youtube.com/vi/N-Q1qR8WNCY/maxresdefault.jpg)](https://www.youtube.com/watch?v=N-Q1qR8WNCY)
+             
+[![Watch the video](https://img.youtube.com/vi/N-Q1qR8WNCY/hqdefault.jpg)](https://www.youtube.com/watch?v=N-Q1qR8WNCY)
                   
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
