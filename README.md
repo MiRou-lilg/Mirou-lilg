@@ -16,7 +16,7 @@
                   <h2 align="center">  ⚝﹌﹌ ★-- ATLAS✦GHOST --★ ﹌﹌⚝  </h2>
              <p align="center">  https://www.youtube.com/watch?v=6nmYlIiN2cU   </p>        
              
-[![Watch the video](https://img.youtube.com/vi/N-Q1qR8WNCY/hqdefault.jpg)](https://www.youtube.com/watch?v=N-Q1qR8WNCY)
+
                   
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
@@ -92,7 +92,7 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ---
 
-
+<a href="https://www.youtube.com/watch?v=N-Q1qR8WNCY"><img src="https://img.youtube.com/vi/N-Q1qR8WNCY/hqdefault.jpg" width="48%"></a> <a href="https://www.youtube.com/watch?v=6nmYlIiN2cU"><img src="https://img.youtube.com/vi/6nmYlIiN2cU/hqdefault.jpg" width="48%"></a>
 
 
 
