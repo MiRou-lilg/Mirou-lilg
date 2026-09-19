@@ -88,8 +88,14 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ---
 
-<a href="https://www.youtube.com/watch?v=N-Q1qR8WNCY"><img src="https://img.youtube.com/vi/N-Q1qR8WNCY/hqdefault.jpg" width="48%"></a> <a href="https://www.youtube.com/watch?v=6nmYlIiN2cU"><img src="https://img.youtube.com/vi/6nmYlIiN2cU/hqdefault.jpg" width="48%"></a>
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=N-Q1qR8WNCY"><img src="https://img.youtube.com/vi/N-Q1qR8WNCY/hqdefault.jpg" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=6nmYlIiN2cU"><img src="https://img.youtube.com/vi/6nmYlIiN2cU/hqdefault.jpg" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=fSxyZkzYrsw"><img src="https://img.youtube.com/vi/fSxyZkzYrsw/hqdefault.jpg" width="32%"></a><br>
+  <a href="https://youtu.be/etss60l7CBg"><img src="https://img.youtube.com/vi/etss60l7CBg/hqdefault.jpg" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=PASTE_FIFTH_ID"><img src="https://img.youtube.com/vi/PASTE_FIFTH_ID/hqdefault.jpg" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=PASTE_SIXTH_ID"><img src="https://img.youtube.com/vi/PASTE_SIXTH_ID/hqdefault.jpg" width="32%"></a>
+</p>
 
 
 
