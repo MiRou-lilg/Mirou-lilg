@@ -56,8 +56,7 @@ Tech Content Creator / Developer / Open Source Enthusiast
 
 ### 📫 How to reach me
 - **Website:** [yourdomain.com](https://yourdomain.com)
-- **Email:** A1LAS-GH0ST@proton.me
-
+- **Email:** atlas0909@proton.me
 
 
 ---
