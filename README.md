@@ -68,7 +68,6 @@ Tech Content Creator / Developer / Open Source Enthusiast
 - <img width="381" height="81" alt="image" src="https://github.com/user-attachments/assets/87b81a43-14ba-427c-b176-b5bc0fa88f88" />
 # 2- SIGMA WALLPAPER ( windows wallpaper manager)
 
-# 3- SIGMA IVIEW (image viewer)
 
 # ......MORE ...
 
