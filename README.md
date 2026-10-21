@@ -87,15 +87,6 @@ https://github.com/MiRou-lilg/YOUTUBE-SIGMA-
 
 ---
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=N-Q1qR8WNCY"><img src="https://img.youtube.com/vi/N-Q1qR8WNCY/hqdefault.jpg" width="32%"></a>
-  <a href="https://www.youtube.com/watch?v=6nmYlIiN2cU"><img src="https://img.youtube.com/vi/6nmYlIiN2cU/hqdefault.jpg" width="32%"></a>
-  <a href="https://www.youtube.com/watch?v=fSxyZkzYrsw"><img src="https://img.youtube.com/vi/fSxyZkzYrsw/hqdefault.jpg" width="32%"></a><br>
-  <a href="https://youtu.be/etss60l7CBg"><img src="https://img.youtube.com/vi/etss60l7CBg/hqdefault.jpg" width="32%"></a>
-  <a href="https://youtu.be/VNZHTbGrVhM"><img src="https://img.youtube.com/vi/VNZHTbGrVhM/hqdefault.jpg" width="32%"></a>
-  <a href="https://youtu.be/tg6ir4eps-4"><img src="https://img.youtube.com/vi/tg6ir4eps-4/hqdefault.jpg" width="32%"></a>
-</p>
-
 
 
 <!--
@@ -105,6 +96,15 @@ https://github.com/MiRou-lilg/YOUTUBE-SIGMA-
 
 
 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=N-Q1qR8WNCY"><img src="https://img.youtube.com/vi/N-Q1qR8WNCY/hqdefault.jpg" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=6nmYlIiN2cU"><img src="https://img.youtube.com/vi/6nmYlIiN2cU/hqdefault.jpg" width="32%"></a>
+  <a href="https://www.youtube.com/watch?v=fSxyZkzYrsw"><img src="https://img.youtube.com/vi/fSxyZkzYrsw/hqdefault.jpg" width="32%"></a><br>
+  <a href="https://youtu.be/etss60l7CBg"><img src="https://img.youtube.com/vi/etss60l7CBg/hqdefault.jpg" width="32%"></a>
+  <a href="https://youtu.be/VNZHTbGrVhM"><img src="https://img.youtube.com/vi/VNZHTbGrVhM/hqdefault.jpg" width="32%"></a>
+  <a href="https://youtu.be/tg6ir4eps-4"><img src="https://img.youtube.com/vi/tg6ir4eps-4/hqdefault.jpg" width="32%"></a>
+</p>
 
 
 
